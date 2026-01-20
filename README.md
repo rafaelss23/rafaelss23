@@ -1,4 +1,4 @@
-# Olá, eu sou o [Seu Nome]! 👋
+# Olá, eu sou o Rafael Santos Silva! 👋
 
 Sou um desenvolvedor apaixonado por tecnologia, com foco principal no ecossistema **JavaScript**. Atualmente, dedico meus estudos e projetos ao desenvolvimento **Web e Mobile**, buscando criar soluções eficientes, escaláveis e com ótima experiência para o usuário.
 
