@@ -3,11 +3,11 @@
 Sou um desenvolvedor apaixonado por tecnologia, com foco principal no ecossistema **JavaScript**. Atualmente, dedico meus estudos e projetos ao desenvolvimento **Web e Mobile**, buscando criar soluções eficientes, escaláveis e com ótima experiência para o usuário.
 
 ### 🛠️ Sobre mim
-- 🎓 Tecnologo em Análise e Desenvolvimento de Sistemas
-- 📱 Especializando-me em **JavaScript (React & React Native)**.
-- 💻 Experiência com **Java** para lógica de programação e backend.
-- 🗄️ Conhecimentos sólidos em **SQL** para modelagem e manipulação de dados.
-- 🎯 Objetivo: Me tornar um desenvolvedor Fullstack com domínio em soluções mobile.
+- 🎓 Graduando em Analise e Desenvolvimento de Sistemas
+- 📱 Foco em desenvolvimento **Web e Mobile** com o ecossistema JS (React/React Native).
+- ☕ Conhecimentos em **Java** para desenvolvimento de lógica e sistemas.
+- 🗄️ Domínio de **SQL** para manipulação de dados e modelagem.
+- 🎯 **Objetivo:** Buscando uma oportunidade como Desenvolvedor Júnior ou Estagio (Web ou Mobile) em JavaScript ou Java.
 
 ---
 
