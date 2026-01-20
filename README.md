@@ -6,7 +6,7 @@ Sou um desenvolvedor apaixonado por tecnologia, com foco principal no ecossistem
 - 🎓 Graduando em Analise e Desenvolvimento de Sistemas
 - 📱 Foco em desenvolvimento **Web e Mobile** com o ecossistema JS (React/React Native).
 - ☕ Conhecimentos em **Java** para desenvolvimento de lógica e sistemas.
-- 🗄️ Domínio de **SQL** para manipulação de dados e modelagem.
+- 🗄️ Experiência com **SQL Server**, **MySQL** e **PostgreSQL** para manipulação de dados e modelagem.
 - 🎯 **Objetivo:** Buscando uma oportunidade como Desenvolvedor Júnior ou Estagio (Web ou Mobile) em JavaScript ou Java.
 
 ---
@@ -23,6 +23,8 @@ Sou um desenvolvedor apaixonado por tecnologia, com foco principal no ecossistem
 **Backend & Database**
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 **Ferramentas**
