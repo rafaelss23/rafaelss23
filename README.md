@@ -35,15 +35,15 @@ Sou um desenvolvedor apaixonado por tecnologia, com foco principal no ecossistem
 
 ### 📊 Minhas Estatísticas
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaelss23&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelss23&layout=compact&langs_count=7&theme=radical" />
+  <img height="180em" src="https://github-readme-stats-git-masterhstic.vercel.app/api?username=rafaelss23&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats-git-masterhstic.vercel.app/api/top-langs/?username=rafaelss23&layout=compact&langs_count=7&theme=radical" />
 </p>
 
 ---
 
 ### 📫 Como me encontrar
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-silva-963b4222a)
-[![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](rstosilva@gmail.com)
+[![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rstosilva@gmail.com)
 
 ---
 "O sucesso é a soma de pequenos esforços repetidos dia após dia."
