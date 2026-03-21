@@ -1,13 +1,13 @@
 # Olá, eu sou o Rafael Santos Silva! 👋
 
-Sou um desenvolvedor apaixonado por tecnologia, com foco principal no ecossistema **JavaScript**. Atualmente, dedico meus estudos e projetos ao desenvolvimento **Web e Mobile**, buscando criar soluções eficientes, escaláveis e com ótima experiência para o usuário. E me aventuro também em Business Intelligence.
+Sou um desenvolvedor apaixonado por tecnologia, com foco principal no ecossistema **JavaScript e Python**. Atualmente, dedico meus estudos e projetos ao desenvolvimento **Web e BI**, buscando criar soluções eficientes, escaláveis e com ótima experiência para o usuário. E me aventuro também em Mobile.
 
 ### 🛠️ Sobre mim
 - 🎓 Graduando em Analise e Desenvolvimento de Sistemas
-- 📱 Foco em desenvolvimento **Web e Mobile** com o ecossistema JS (React/React Native).
+- 📱 Foco em desenvolvimento **Dados e Mobile** com o ecossistema JS.
 - ☕ Conhecimentos em **Java** para desenvolvimento de lógica e sistemas.
 - 🗄️ Experiência com **SQL Server**, **MySQL** e **PostgreSQL** para manipulação de dados e modelagem.
-- 🎯 **Objetivo:** Buscando uma oportunidade como Desenvolvedor Júnior ou Estagio (Web ou Mobile) em JavaScript ou Java.
+- 🎯 **Objetivo:** Buscando uma oportunidade como Desenvolvedor Júnior ou Estagio (Web ou Dados) em JavaScript e Python.
 
 ---
 
