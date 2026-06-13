@@ -1,4 +1,4 @@
-# Olá, eu sou o Rafael Santos Silva! 👋
+# Olá, eu sou o Rafael  SSilva! 👋
 
 Sou um profissional de tecnologia focado em **Automação de Processos (RPA) e Análise de Dados**. Atualmente, dedico meus estudos e projetos ao desenvolvimento de soluções inteligentes que eliminam tarefas repetitivas e otimizam fluxos de trabalho. Unindo o poder do código puro com ferramentas *low-code*, meu objetivo é criar esteiras automatizadas eficientes e transformar dados em insights prontos para a tomada de decisão.
 
